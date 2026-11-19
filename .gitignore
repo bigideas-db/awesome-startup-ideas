@@ -1,0 +1,7 @@
+.DS_Store
+data/
+scripts/
+snapshots/
+*.sql
+*.json
+PUBLISHING.md
